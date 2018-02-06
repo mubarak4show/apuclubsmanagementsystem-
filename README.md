@@ -1,6 +1,6 @@
 # APU Clubs Management System
 
-<h2> In orderto run the system, please follow the steps below: </h2>
+<h2> In order to run the system successfully, please follow the steps below: </h2>
 
 <ol type="1">
 	<li>Download Sublime Text 3 or Atom (those are two powerful text editors).</li>
