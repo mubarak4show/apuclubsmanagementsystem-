@@ -1,4 +1,4 @@
-# AP1 - Download Sublime Text 3 or Atom (those are two powerful text editors).U Clubs Management System
+# APU Clubs Management System
 
 <h2> In orderto run the system, please follow the steps below: </h2>
 
@@ -12,4 +12,4 @@
 	<li>Open another cmd, go into the project folder and start the project suing this command: "node keystone".</li>
 </ol>
 
-<h1>Have Fun! </h1>
+<h3>Have Fun! </h1>
